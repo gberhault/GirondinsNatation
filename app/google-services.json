@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "386891028238",
+    "firebase_url": "https://girondins-natation.firebaseio.com",
+    "project_id": "girondins-natation",
+    "storage_bucket": "girondins-natation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386891028238:android:a07fb0ca35ddcfb8",
+        "android_client_info": {
+          "package_name": "com.wordpress.guillaumeberhault.girondinsnatation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386891028238-ro3gh7blgptbsftr6huvlbp9g2om3dnp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrsasQO4I1RML4Rs4U733CiXZZ6k5sLtc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
